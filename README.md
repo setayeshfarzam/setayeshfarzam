@@ -1,11 +1,7 @@
 <h1 align="center">Hello there, I'm Setayesh Farzam 👋</h1>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Developer working" width="200"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer working" width="150"/>
 </p>
-<p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.ddc6b901-5a80-4569-80bb-e9d46f35f2ff.png" alt="Welcome to my GitHub" />
-</p>
-![Welcome to my GitHub](https://copilot.microsoft.com/th/id/BCO.ddc6b901-5a80-4569-80bb-e9d46f35f2ff.png)
 ---
 
 ### 💻 About Me :
