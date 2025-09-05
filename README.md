@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Setayesh Farzam 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBk5V0g8vL3Ld55/giphy.gif" alt="Hi" width="200" height="200"/>
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/3242853708250636233_0" alt="Coding" width="200"/>
 </p>
 
 ---
