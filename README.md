@@ -8,12 +8,8 @@ Hello there, I'm Setayesh Farzam 👋
 
 ✉️ Feel free to reach out to me via email at [Your-Email-Here].
 
-🚀 Skills & Technologies
-Here are some of the technologies I've been working with:
-
-Frontend:
-
-Backend & Others:
+🚀 Skills & Technologies :
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 📊 GitHub Stats
 🔗 Let's Connect
