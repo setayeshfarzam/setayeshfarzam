@@ -19,12 +19,9 @@ Hello there, I'm Setayesh Farzam 👋
 ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-📊 GitHub Stats
-🔗 Let's Connect
-GitHub: https://github.com/setayeshfarzam
-
-LinkedIn: https://www.linkedin.com/in/setayeshfarzam
-
+🌐 Socials:
+- **GitHub:** [@نام کاربری گیت‌هاب شما](https://github.com/setayeshfarzam)
+- **LinkedIn:** [لینک پروفایل لینکدین شما](https://www.linkedin.com/in/setayeshfarzam)
 Thanks for stopping by!
 
 Update profile readme
