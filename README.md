@@ -5,7 +5,7 @@
 
 ---
 
-### 💻 About Me
+### 💻 About Me :
 
 I'm a passionate and creative **front-end developer** 🧑‍💻 who loves bringing ideas to life with code. My journey in tech is a blend of artistic vision ✨ and technical skill. I specialize in building captivating user interfaces using **HTML**, **CSS**, and **JavaScript** 🚀, and I'm always exploring the dynamic worlds of **Java** and **C#** for creating powerful, interactive applications.
 
@@ -15,7 +15,7 @@ Beyond the web, my interests extend to **game development** 🎮 and **artistic 
 
 ---
 
-### 🚀 Skills & Technologies
+### 🚀 Skills & Technologies :
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,vue,cs,java,php" alt="My Skills">
@@ -23,7 +23,7 @@ Beyond the web, my interests extend to **game development** 🎮 and **artistic 
 
 ---
 
-### 🌐 Socials
+### 🌐 Socials :
 
 <div align="center">
   <a href="https://github.com/setayeshfarzam" target="_blank" rel="noopener noreferrer">
@@ -36,7 +36,7 @@ Beyond the web, my interests extend to **game development** 🎮 and **artistic 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats :
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=setayeshfarzam&show_icons=true&theme=dark" alt="Setayesh Farzam's GitHub Stats">
