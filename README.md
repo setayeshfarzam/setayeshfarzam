@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Setayesh Farzam 👋</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer working" width="150"/>
+  <img src="https://copilot.microsoft.com/th/id/BCO.ddc6b901-5a80-4569-80bb-e9d46f35f2ff.png" alt="Welcome to my GitHub" width="150" />
 </p>
 ---
 
