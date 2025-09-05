@@ -7,9 +7,7 @@
 
 ### 💻 About Me
 
-* 🧑‍💻 I'm a passionate web developer and a student of technology.
-* 🌱 I'm currently learning and building exciting projects with different frameworks.
-* ⚡️ My main interests are full-stack web development and UI/UX design.
+I am an enthusiastic and creative front-end developer with a passion for coding, game development, and artistic design. My interests range from crafting engaging user interfaces with HTML, CSS, and JavaScript to exploring the world of Java and C# for creating functional and interactive applications. I also enjoy combining my technical skills with creative design to produce visually appealing and user-friendly solutions. I am always eager to learn, experiment, and take on new challenges, aiming to blend technical expertise and artistic vision to bring unique ideas to life.
 
 ---
 
