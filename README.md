@@ -20,8 +20,10 @@ Hello there, I'm Setayesh Farzam 👋
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 🌐 Socials:
-- **GitHub:** [@نام کاربری گیت‌هاب شما](https://github.com/setayeshfarzam)
-- **LinkedIn:** [لینک پروفایل لینکدین شما](https://www.linkedin.com/in/setayeshfarzam)
+<p align="left">
+<a href="https://github.com/setayeshfarzam" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://linkedin.com/in/setayeshfarzam" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 Thanks for stopping by!
 
 Update profile readme
