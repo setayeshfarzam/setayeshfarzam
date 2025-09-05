@@ -29,7 +29,9 @@ Beyond the web, my interests extend to **game development** 🎮 and **artistic 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </div>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,vue,cs,java,php" alt="My Skills">
+</div>
 ---
 
 ### 🌐 Socials :
