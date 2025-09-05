@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Setayesh Farzam 👋</h1>
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.ddc6b901-5a80-4569-80bb-e9d46f35f2ff.png" alt="Welcome to my GitHub" width="150" />
+  <img src="https://copilot.microsoft.com/th/id/BCO.ddc6b901-5a80-4569-80bb-e9d46f35f2ff.png" alt="Welcome to my GitHub" width="300" />
 </p>
 ---
 
