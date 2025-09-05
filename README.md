@@ -1,7 +1,8 @@
 <h1 align="center">Hello there, I'm Setayesh Farzam 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNn82q6c0j7S/giphy.gif" alt="Coding" width="200"/>
+  <img src="https://media.giphy.com/media/26n9GmU2s60Hq3dCw/giphy.gif" alt="Coding" width="200"/>
 </p>
+
 ---
 
 ### 💻 About Me
