@@ -1,32 +1,56 @@
-Hello there, I'm Setayesh Farzam 👋
-💻 About Me
-🧑‍💻 I'm a passionate web developer and a student of technology.
-
-🌱 I'm currently learning and building exciting projects with different frameworks.
-
-⚡️ My main interests are full-stack web development and UI/UX design.
-
-✉️ Feel free to reach out to me via email at [Your-Email-Here].
-
-🚀 Skills & Technologies :
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-🌐 Socials:
-<p align="left">
-<a href="https://github.com/setayeshfarzam" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://linkedin.com/in/setayeshfarzam" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<h1 align="center">Hello there, I'm Setayesh Farzam 👋</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBk5V0g8vL3Ld55/giphy.gif" alt="Hi" width="200" height="200"/>
 </p>
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/setayeshfarzam&show_icons=true&theme=dark)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/setayeshfarzam&layout=compact&theme=dark)
+---
 
-Thanks for stopping by!
+### 💻 About Me
 
+* 🧑‍💻 I'm a passionate web developer and a student of technology.
+* 🌱 I'm currently learning and building exciting projects with different frameworks.
+* ⚡️ My main interests are full-stack web development and UI/UX design.
+
+---
+
+### 🚀 Skills & Technologies
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</div>
+
+---
+
+### 🌐 Socials
+
+<div align="center">
+  <a href="https://github.com/setayeshfarzam" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/setayeshfarzam" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=setayeshfarzam&show_icons=true&theme=dark" alt="Setayesh Farzam's GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayeshfarzam&layout=compact&theme=dark" alt="Top Languages">
+</div>
+
+---
+
+<h3 align="center">Thanks for stopping by!</h3>
