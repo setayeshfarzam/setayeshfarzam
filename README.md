@@ -24,6 +24,9 @@ Hello there, I'm Setayesh Farzam 👋
 <a href="https://github.com/setayeshfarzam" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://linkedin.com/in/setayeshfarzam" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/setayeshfarzam&show_icons=true&theme=dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/setayeshfarzam&layout=compact&theme=dark)
+
 Thanks for stopping by!
 
-Update profile readme
