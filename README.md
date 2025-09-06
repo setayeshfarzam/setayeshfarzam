@@ -46,4 +46,4 @@ Beyond the web, my interests extend to **game development** 🎮 and **artistic 
 
 ---
 
-<h3 align="center">Let's connect and build something amazing together! 🤝</h3>
+
