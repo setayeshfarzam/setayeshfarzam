@@ -41,12 +41,8 @@ Beyond the web, my interests extend to **game development** 🎮 and **artistic 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=setayeshfarzam&show_icons=true&theme=dark" alt="Setayesh Farzam's GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayeshfarzam&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayeshfarzam&hide=html,css&layout=compact&theme=dark" alt="Top Languages">
 </div>
-![HTML](https://img.shields.io/badge/HTML-💛-orange)
-![CSS](https://img.shields.io/badge/CSS-💙-blue)
-![JavaScript](https://img.shields.io/badge/JS-🟨-yellow)
-
 ---
 
 
